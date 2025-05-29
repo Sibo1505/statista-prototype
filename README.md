@@ -6,8 +6,7 @@
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/DEIN_USERNAME/statista-frontend-test.git
-cd statista-frontend
+git clone https://github.com/Sibo1505/statista-prototype.git
 ```
 
 ### 2. Install dependencies
